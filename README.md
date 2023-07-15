@@ -1,0 +1,1 @@
+This is a simple playground to play with Grafana and Prometheus.
